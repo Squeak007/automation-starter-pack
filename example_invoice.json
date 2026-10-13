@@ -1,0 +1,20 @@
+{
+  "from": {
+    "name": "Squeak Co.",
+    "email": "jakeg@thefloortimecenter.com",
+    "address": "Bethesda, MD"
+  },
+  "to": {
+    "name": "Example Client, LLC",
+    "email": "accounting@example.com",
+    "address": "123 Main St, Anywhere, USA"
+  },
+  "number": "SQ-001",
+  "date": "2026-10-13",
+  "due": "2026-10-27",
+  "items": [
+    { "desc": "Blog post — Standard (1000 words, SEO)", "qty": 1, "rate": 150.0 },
+    { "desc": "Rush delivery", "qty": 1, "rate": 25.0 }
+  ],
+  "notes": "Thanks for your business! Payment can be made via the Stripe link emailed separately."
+}
